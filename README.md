@@ -1,5 +1,7 @@
 Author:George Knuthia Njoroge
+
 Date:28/4/2019
+
 # Triangle Tracker
 
 Triangle tracker is a web based page,It allow users to know types of triangle by simply inputing units of the sides of the triangle.

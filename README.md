@@ -24,7 +24,7 @@ Technology used
 * HTML- HTML enhanced for web apps!
 * ATOM EDITOR - text editor.
 * CSS - great UI for modern web apps.
-* JAVASCRIPT - evented  for the backend
+* JAVASCRIPT - evented  for the backend.
 --------
 ### Prerequisites
 

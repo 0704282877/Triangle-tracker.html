@@ -6,7 +6,9 @@ Triangle tracker is a web based page,It allow users to know types of triangle by
 
 ### Demo
 Here is a link to the webpage (https://0704282877.github.io/Triangle-tracker.html/)
+
 ### BDD
+
 Description : This is a webpage that allows users to know the sides of a triangle it checks whether the triangle is equilateral,isoscles,scalene or not a triangle.
 *Behavior Driven Development*
 1. Takes User Input
@@ -17,6 +19,7 @@ Description : This is a webpage that allows users to know the sides of a triangl
 6. Else if 2 sides are equal, shows message _isosceles_
 7. Else shows a message, shows message _scalene_
 ### Tech
+
 Technology used:
 
 * HTML- HTML enhanced for web apps!
@@ -31,6 +34,7 @@ Basic git knowledge
 --------
 
 #### Clone from github
+
 1. _On GitHub, navigate to the main page of the repository._
 2. _Under the repository name, click Clone or download._
 3. _In the Clone with HTTPs section, click  to copy the clone URL for the repository._

@@ -33,7 +33,6 @@ Technology used
 * ATOM EDITOR - text editor.
 * CSS - great UI for modern web apps.
 * JAVASCRIPT - evented  for the backend.
-* JQUERY - duh
 --------
 ### Prerequisites
 

@@ -1,4 +1,4 @@
-Author:George Knuthia Njoroge
+Author:George Kinuthia Njoroge
 
 # Triangle Tracker
 

@@ -7,7 +7,7 @@ Triangle tracker is a web based page,It allow users to know types of triangle by
 
 ### Demo
 
-Here is a link to the webpage ()
+Here is a link to the webpage (https://0704282877.github.io/Triangle-tracker.html/)
 
 ### BDD
 Description : This is a webpage that allows users to know the sides of a triangle it checks whether the triangle is equilateral,isoscles,scalene or not a triangle.
@@ -20,11 +20,6 @@ Description : This is a webpage that allows users to know the sides of a triangl
 5. If all sides are equal,shows message _Equilateral Traiangle_
 6. Else if 2 sides are equal, shows message _isosceles_
 7. Else shows a message, shows message _scalene_
-
-
-
-
-
 
 ### Tech
 Technology used

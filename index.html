@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <title>Triangle tracker</title>
+</head>
+
+<body>
+
+  <!--Heading  -->
+  <center>
+  <h1>Triangle Tracker.</h1>
+
+
+  <p>Enter length of sides of a triangle <br>to know which type of triangle </p><br>
+
+  <!--input fields  -->
+  <div class="inputed">
+
+
+<h1>side1</h1>
+    <input type="number" name="side1" id="side1"  class="input"> <br>
+
+
+<h1>side2</h1>
+    <input type="number" name="side2" id="side2"  class="input">
+   <br>
+
+
+<h1>side3</h1>
+    <input type="number" name="side3" id="side3"  class="input">
+
+  </div>
+  <br><br>
+
+  <!--submit & reset button  -->
+  <div class="controls">
+    <button style="margin:20px" type="reset" name="Reset" onClick="reset()">Reset</button>
+    <button style="margin:20px" type="button" name="Submit" onClick="triangles()">Submit</button>
+
+  </div><br><br><br>
+
+
+  <!--Result output  -->
+  <div class="displays">
+    <h2 id="display" class="test"></h2>
+  </div>
+
+
+</center>
+
+  <!--JAVASCRIPT FUNCTION  -->
+  <script type="text/javascript" src="script.js">
+
+  </script>
+
+</body>
+
+</html>

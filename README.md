@@ -17,7 +17,7 @@ Description : This is a webpage that allows users to know the sides of a triangl
 6. Else if 2 sides are equal, shows message _isosceles_
 7. Else shows a message, shows message _scalene_
 ### Tech
-Technology used
+Technology used:
 
 * HTML- HTML enhanced for web apps!
 * ATOM EDITOR - text editor.

@@ -5,7 +5,6 @@ Date:28/4/2019
 Triangle tracker is a web based page,It allow users to know types of triangle by simply inputing units of the sides of the triangle.
 
 
-
 ### Demo
 
 Here is a link to the webpage (https://0704282877.github.io/Triangle-tracker.html/)

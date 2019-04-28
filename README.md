@@ -9,7 +9,7 @@ Here is a link to the webpage (https://0704282877.github.io/Triangle-tracker.htm
 ### BDD
 Description : This is a webpage that allows users to know the sides of a triangle it checks whether the triangle is equilateral,isoscles,scalene or not a triangle.
 *Behavior Driven Development*
-1. Tkes User Input
+1. Takes User Input
 2. Checks input and Verify if its a triangle
 3. If  Verification Fails, It Will Show Message _Not a triangle_
 4. Else, Run the Code And Check whether Its A Traiangle

@@ -1,6 +1,5 @@
 Author:George Knuthia Njoroge
 
-Date:28/4/2019
 
 # Triangle Tracker
 
